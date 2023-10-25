@@ -1,0 +1,8 @@
+.wrexham-font {
+    font-family: 'Wrexham Script', cursive;
+  }
+  @font-face {
+    font-family: 'Wrexham Script';
+    src: url('WREXHAM_.TTF') format('truetype');
+    font-weight: normal;
+  }
